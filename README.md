@@ -1,2 +1,2 @@
 # Hi! I am Sharan H S
-## I am currently learning Fullstack development
+## This is my Portfolio showcasing various projects I have done along with my blog
