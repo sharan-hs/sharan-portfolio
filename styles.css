@@ -120,6 +120,7 @@ hr{
     padding: 2rem;
     text-align: center;
     border-top-right-radius: 1rem;
+   
 }
 
 .footer .link{
@@ -133,4 +134,50 @@ hr{
 
 .footer ul{
     padding-inline-start: 0px;
+}
+
+/* styling blog page */
+.content{
+    background-color: azure;
+}
+
+.blog{
+    height: 700px;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: 20px;
+  
+}
+
+.blog-images{
+    height: 500px;
+    width: 700px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style: hidden;
+
+}
+
+.Image1{
+background-image: url("images/blog_image1.JPG");
+
+}
+
+
+.image-caption{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.6rem;
+    text-align: center;
+    color: black;
+    background-color: #80c0ff;
+}
+
+.description{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
 }
